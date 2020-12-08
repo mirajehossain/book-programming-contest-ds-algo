@@ -36,3 +36,5 @@ cmake-build-debug/
 
 CMakeLists.txt
 .vscode
+
+.DS_Store
